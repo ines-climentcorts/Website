@@ -1,0 +1,27 @@
+ @import url("https://fonts.googleapis.com/css?family=Lora");
+
+@import url("components/container.css");
+
+@import url("components/Avatar.css");
+
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+
+@import url("components/card.css");
+
+ body {
+ 	font-family: 'lora';
+ 	font-size: 18px;
+ 	font-weight: bold;
+ 	margin: 0px;
+
+
+ }
+
+ a {
+ 	text-decoration: none;
+ 	
+ }
